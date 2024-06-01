@@ -17,7 +17,7 @@ else:
 
 
 # 3- Email ve parola bilgileri ile giriş kontrolü yapınız.
-loggedEmail = "mustafahaitaa@gmail.com"
+loggedEmail = "canbozyigit@gmail.com"
 loggedPassword = "1234567"
 emailInput = input("Email adresi: ")
 passwordInput = input("Şifre: ")

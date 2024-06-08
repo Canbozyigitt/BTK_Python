@@ -4,7 +4,7 @@ class Person:
         self.year = year
 
     def intro(self):
-        print("Hello There")
+        print("Hello there")
 
     def calculateAge(self):
         return 2024 - self.year

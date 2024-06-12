@@ -18,6 +18,6 @@ numbers.reverse()
 letters.sort()
 letters.reverse()
 
-print(letters.count("a"))
+print(letters.count("g"))
 
 print(val)

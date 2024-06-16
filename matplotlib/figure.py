@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.linspace(-10,9,20)
+x = np.linspace(-11,9,21)
 y = x**3
 
 figure = plt.figure()

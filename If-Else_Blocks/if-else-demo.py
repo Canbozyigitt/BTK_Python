@@ -6,6 +6,6 @@ yas = input("Yaşınızı giriniz: ")
 egitim = input("Eğitim seviyesi (Lise, Üniversite): ").lower().strip()
 
 if(yas > 18 and (egitim == "lise" or egitim == "üniversite")):
-    print(f"{isim} ehliyet alabilirsiniz.")
+    print(f"{isim} ehliyet alabilirsiniz")
 else:
     print(f"{isim} maalesef ehliyet alamazsınız...")

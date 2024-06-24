@@ -1,5 +1,5 @@
 # 1- Girilen bir sayının 0-100 arasında olup olmadığını kontrol ediniz.
-sayi = int(input("Bir sayı giriniz: "))
+sayi = int(input("Bir sayı giriniz:"))
 if(sayi > 0 and sayi < 100):
     print("Girdiğiniz sayı 0 ile 100 arasında.")
 else:
